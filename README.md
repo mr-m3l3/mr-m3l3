@@ -1,0 +1,3 @@
+- 👋 Hi, I’m m3l3
+- 👀 I’m interested in physics and science
+- 🌱 I’m currently learning how to integrate physics in my code aka physic engine
